@@ -5,7 +5,7 @@
 //examen2a.php
 
 include "./comunExamen.php";dsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdulta: %s", date("d-m-Y H:i:s e",$_POST['fechahora']));
-
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ");
 
 ?>
