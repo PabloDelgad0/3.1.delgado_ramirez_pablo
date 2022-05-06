@@ -4,7 +4,7 @@
 //Fecha 12/02/2020
 //examen2a.php
 
-include "./comunExamen.php";ulta: %s", date("d-m-Y H:i:s e",$_POST['fechahora']));
+include "./comunExamen.php";dsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdulta: %s", date("d-m-Y H:i:s e",$_POST['fechahora']));
 
 
 printf("
