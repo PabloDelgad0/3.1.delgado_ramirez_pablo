@@ -6,8 +6,7 @@
 
 include "./comunExamen.php";dsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdulta: %s", date("d-m-Y H:i:s e",$_POST['fechahora']));
 
-
- lololololololololololololoo
+aaaaaaaaaaaaaaaaaaaaaaaaaa
 printf("
 		<br><br>
 		<a href='./formEx2a.php'>Formulario Paises-Pilotos</a>
